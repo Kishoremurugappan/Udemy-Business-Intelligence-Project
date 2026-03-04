@@ -1,4 +1,4 @@
-# Udemy-Courses-Stas-2023-Prices-Data_analysis
+# Udemy-Courses-Prices-Data_analysis
 
 
 # visit the link to contribute to the analytics and edit it in kaggle : https://www.kaggle.com/code/krishna0000007/udemy-2
@@ -76,7 +76,7 @@ Contributing
 Contributions are welcome! If you have suggestions, improvements, or additional analyses, feel free to open an issue or a pull request.
 
 # Contact
-For questions, suggestions, or collaborations, feedbacks pls   feel free to contact at this mail - radheloyla@gmail.com
+For questions, suggestions, or collaborations, feedbacks pls   feel free to contact at this mail - kishore.m06012003@gmail.com
 
 # contacts :
 # mail id - radheloyla@gmail.com
