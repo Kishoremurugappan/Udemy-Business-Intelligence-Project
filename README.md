@@ -1,7 +1,5 @@
 # Udemy-Courses-Prices-Data_analysis
 
-
-# visit the link to contribute to the analytics and edit it in kaggle : https://www.kaggle.com/code/krishna0000007/udemy-2
 # Udemy Course Data Analysis
 Welcome to the Udemy Course Data Analysis repository! This project revolves around exploring and visualizing data from Udemy courses, analyzing their prices, ratings, and other attributes. By leveraging the power of Python and data visualization libraries, this project sheds light on valuable insights within the Udemy course dataset.
 
@@ -79,4 +77,4 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 For questions, suggestions, or collaborations, feedbacks pls   feel free to contact at this mail - kishore.m06012003@gmail.com
 
 # contacts :
-# mail id - radheloyla@gmail.com
+# mail id - kishore.m06012003@gmail.com
